@@ -10,7 +10,7 @@ users:
     shell: /bin/bash
     sudo: ALL=(ALL) NOPASSWD:ALL
     ssh_authorized_keys:
-      - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDkbmK81wc1n1Rt8MhMGFtKbXleax7rPEApyk3zCb6D5GnR9j1W3IOLqHhyhczrhXHq1a5IjmVadBzq4M+bG6cK+gp6VyTS9XZ4N7aHToCBFu+8M1puybD9Zli09kpHyIfnn9yOe4E1yRB884XalmR0XGDye+mCJz+Ppw50MZ6Opirt60MpokX+zxKY69dbHLI7C+lR6hZUxoJhvb097Aq7wC8lpPG4jJUPi0VqKqZZ5Xfl65uonFuhbEkgBuTzDsVerTYR1FTyLtl9w6ylsZz62uwKVwL1RwIURWHs/Zidzd7K7ItqYGRAmOSOfNwc0yZUuzuADbZ1LcxCfXWwXHKnNuNT5mPG2BBmw3JT1Ja6zwaOJimvpboZe5lK1vDOnKVHmd4f335EFtoJjmz7Y4N9stqztGWe5ul1AwzIAJdOzYJppAsvstVkYxuso/LtTUiSZHihXS8cXGFmHtyEebeInZO7ZwijQXJeL9nLUoSDNOSOaR4/L8gkrrK+xUl2j4qFzRL7TOe+tKha9CEQohtccpyNbtI5VbkcjGmPk+i2wY+B3U2te/hUFSvRTo50IvD3OJ984I/2ufM1rw200NHM9M9ahqfBVp3ad6kXnC1klEzprIJHV62ijZeRyk0hR9VE5UJ+0qxreyKeWMomUX4ZeF+kjk6PBY/6K0K86IKSaQ== vivek@maindt-vivek
+      - ssh-rsa "key" vivek@maindt-vivek
 
 # Update and upgrade packages
 package_upgrade: true
